@@ -1045,11 +1045,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Viktor Naydenov\\Desktop\\Fontys\\Fontys\\Assignments\\Semester 6\\Individual Project\\McrSrv\\CommandService\\CommandService.csproj",
+      "projectUniqueName": "C:\\Users\\Viktor Naydenov\\Desktop\\Fontys\\Fontys\\Assignments\\Semester 6\\Individual Project\\McrSrv\\MicroservicesExcerciese\\CommandService\\CommandService.csproj",
       "projectName": "CommandService",
-      "projectPath": "C:\\Users\\Viktor Naydenov\\Desktop\\Fontys\\Fontys\\Assignments\\Semester 6\\Individual Project\\McrSrv\\CommandService\\CommandService.csproj",
+      "projectPath": "C:\\Users\\Viktor Naydenov\\Desktop\\Fontys\\Fontys\\Assignments\\Semester 6\\Individual Project\\McrSrv\\MicroservicesExcerciese\\CommandService\\CommandService.csproj",
       "packagesPath": "C:\\Users\\Viktor Naydenov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Viktor Naydenov\\Desktop\\Fontys\\Fontys\\Assignments\\Semester 6\\Individual Project\\McrSrv\\CommandService\\obj\\",
+      "outputPath": "C:\\Users\\Viktor Naydenov\\Desktop\\Fontys\\Fontys\\Assignments\\Semester 6\\Individual Project\\McrSrv\\MicroservicesExcerciese\\CommandService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

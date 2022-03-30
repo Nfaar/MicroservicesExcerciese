@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XJ2STkHouct132MPX4bBQ1hTGuLfiVF9w/upKiFBsDNN8Gkdz1wv3eOAuelil7fBqARLs9TLVEVGVymiiCPj/w==",
+  "dgSpecHash": "5F6UP5fP3NssmZtQn2r0Q/7gMsKcjBKUSvqAw0BOHOHeobC6ttgFfFPc4cj0kpjfOpEtb/BMVyNhnXGvVVXYNg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Viktor Naydenov\\Desktop\\Fontys\\Fontys\\Assignments\\Semester 6\\Individual Project\\McrSrv\\PlatformService\\PlatformService.csproj",
+  "projectFilePath": "C:\\Users\\Viktor Naydenov\\Desktop\\Fontys\\Fontys\\Assignments\\Semester 6\\Individual Project\\McrSrv\\MicroservicesExcerciese\\PlatformService\\PlatformService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Viktor Naydenov\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\Viktor Naydenov\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

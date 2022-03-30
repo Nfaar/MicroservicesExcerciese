@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tUnDfQqUDabc+cBv0laA4KGGUZ/umIHC6yXhahj/ZxUI46Wxrv5Hr01cwdx7nEdVO5KkR4ms5eQ6v9YVXUYzeA==",
+  "dgSpecHash": "QGhRbcUuN6VIUZbUkOm5fYAMoKs7TmPhHqrRzOjQV31ifCcceZipkUfZm2pHrtuwlVCkzXK0oEC1WZkkGAG9+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Viktor Naydenov\\Desktop\\Fontys\\Fontys\\Assignments\\Semester 6\\Individual Project\\McrSrv\\CommandService\\CommandService.csproj",
+  "projectFilePath": "C:\\Users\\Viktor Naydenov\\Desktop\\Fontys\\Fontys\\Assignments\\Semester 6\\Individual Project\\McrSrv\\MicroservicesExcerciese\\CommandService\\CommandService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Viktor Naydenov\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\Viktor Naydenov\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
