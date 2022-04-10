@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "QGhRbcUuN6VIUZbUkOm5fYAMoKs7TmPhHqrRzOjQV31ifCcceZipkUfZm2pHrtuwlVCkzXK0oEC1WZkkGAG9+w==",
+  "dgSpecHash": "GXS4tINneut92Zue+hliD2fPgYR2+rJAYDyCN7rvevsUt0ns4qetxoi9wr+7Ts/OK0syYR4QbsR5f7YhBKZmNg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Viktor Naydenov\\Desktop\\Fontys\\Fontys\\Assignments\\Semester 6\\Individual Project\\McrSrv\\MicroservicesExcerciese\\CommandService\\CommandService.csproj",
   "expectedPackageFiles": [
@@ -25,6 +25,7 @@
     "C:\\Users\\Viktor Naydenov\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\Viktor Naydenov\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\Viktor Naydenov\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Viktor Naydenov\\.nuget\\packages\\rabbitmq.client\\6.2.4\\rabbitmq.client.6.2.4.nupkg.sha512",
     "C:\\Users\\Viktor Naydenov\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\Viktor Naydenov\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "C:\\Users\\Viktor Naydenov\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
@@ -32,7 +33,9 @@
     "C:\\Users\\Viktor Naydenov\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
     "C:\\Users\\Viktor Naydenov\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\Viktor Naydenov\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
-    "C:\\Users\\Viktor Naydenov\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "C:\\Users\\Viktor Naydenov\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Viktor Naydenov\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Viktor Naydenov\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
   ],
   "logs": []
 }

@@ -203,3 +203,4 @@ C:\Users\Viktor Naydenov\Desktop\Fontys\Fontys\Assignments\Semester 6\Individual
 C:\Users\Viktor Naydenov\Desktop\Fontys\Fontys\Assignments\Semester 6\Individual Project\McrSrv\MicroservicesExcerciese\PlatformService\obj\Debug\net5.0\ref\PlatformService.dll
 C:\Users\Viktor Naydenov\Desktop\Fontys\Fontys\Assignments\Semester 6\Individual Project\McrSrv\MicroservicesExcerciese\PlatformService\obj\Debug\net5.0\PlatformService.pdb
 C:\Users\Viktor Naydenov\Desktop\Fontys\Fontys\Assignments\Semester 6\Individual Project\McrSrv\MicroservicesExcerciese\PlatformService\obj\Debug\net5.0\PlatformService.genruntimeconfig.cache
+C:\Users\Viktor Naydenov\Desktop\Fontys\Fontys\Assignments\Semester 6\Individual Project\McrSrv\MicroservicesExcerciese\PlatformService\bin\Debug\net5.0\RabbitMQ.Client.dll

@@ -84,3 +84,5 @@ C:\Users\Viktor Naydenov\Desktop\Fontys\Fontys\Assignments\Semester 6\Individual
 C:\Users\Viktor Naydenov\Desktop\Fontys\Fontys\Assignments\Semester 6\Individual Project\McrSrv\MicroservicesExcerciese\CommandService\obj\Debug\net5.0\ref\CommandService.dll
 C:\Users\Viktor Naydenov\Desktop\Fontys\Fontys\Assignments\Semester 6\Individual Project\McrSrv\MicroservicesExcerciese\CommandService\obj\Debug\net5.0\CommandService.pdb
 C:\Users\Viktor Naydenov\Desktop\Fontys\Fontys\Assignments\Semester 6\Individual Project\McrSrv\MicroservicesExcerciese\CommandService\obj\Debug\net5.0\CommandService.genruntimeconfig.cache
+C:\Users\Viktor Naydenov\Desktop\Fontys\Fontys\Assignments\Semester 6\Individual Project\McrSrv\MicroservicesExcerciese\CommandService\bin\Debug\net5.0\appsettings.Production.json
+C:\Users\Viktor Naydenov\Desktop\Fontys\Fontys\Assignments\Semester 6\Individual Project\McrSrv\MicroservicesExcerciese\CommandService\bin\Debug\net5.0\RabbitMQ.Client.dll
